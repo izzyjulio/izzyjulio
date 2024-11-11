@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @izzyjulio
-- 👀 I'm interested in Quality Assurance, Test Automation, and Digital Accessibility
+- 👀 I'm interested in Quality Assurance, Test Automation, Digital Accessibility and pinball
 - 🌱 I'm currently learning Python automation and exploring e-commerce platforms
 - 💞️ I'm looking to collaborate on QA process improvements and accessibility testing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isabeljulio/)
