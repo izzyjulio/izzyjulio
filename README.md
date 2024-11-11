@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @izzyjulio
 - 👀 I'm interested in Quality Assurance, Test Automation, Digital Accessibility and pinball
 - 🌱 I'm currently learning Python automation and exploring e-commerce platforms
-- 💞️ I'm looking to collaborate on QA process improvements and accessibility testing
+- 💞️ I'm looking to collaborate on QA automation, process improvements and accessibility testing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isabeljulio/)
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: Certified Master Gardener. I restore vintage pinball machines and explore historic carousels - I love how these mechanical wonders blend engineering with art!
