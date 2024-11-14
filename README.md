@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izzy Julio</h1>
 <h3 align="center">Associate Director, QA from NYC</h3>
 Native New Yorker who's perfected the art of breaking things professionally. What started in video game QA has evolved into building and leading teams across healthcare, websites, gaming, and e-commerce. I'm focused on making sure digital products work for everyone who uses them.
-
+<br>
 - 👀 I'm interested in Quality Assurance, Test Automation, Digital Accessibility and Arcade Gaming
 - 🌱 I'm currently learning Python automation and exploring e-commerce platforms
 - 👯 I'm looking to collaborate on QA automation, process improvements and accessibility testing
