@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izzy Julio</h1>
 <h3 align="center">Associate Director, QA from NYC</h3>
 
-- 👀 I'm interested in Quality Assurance, Test Automation, Digital Accessibility and Pinball
+- 👀 I'm interested in Quality Assurance, Test Automation, Digital Accessibility and Arcade Gaming
 
 - 🌱 I'm currently learning Python automation and exploring e-commerce platforms
 
