@@ -6,9 +6,8 @@
 - 🌱 I'm currently learning Python automation and exploring e-commerce platforms
 - 👯 I'm looking to collaborate on QA automation, process improvements and accessibility testing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isabeljulio/)
-- 👨‍💻 All of my projects are available at my [personal website](https://www.izzyjulio.com)
+- 👨‍💻 Resume and projects are available at my [personal website](https://www.izzyjulio.com)
 - ⚡ Fun fact: When I'm not breaking websites professionally, you'll find me playing and fixing vintage arcade games or getting my hands dirty in community gardens. 
-- 📄 Experience [Resume](https://docs.google.com/document/d/1Ij7BE6E5C6Vp4PLFGhs8AoRIY0TW63y69ozyNKyZWoo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
